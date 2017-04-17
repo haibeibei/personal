@@ -2,7 +2,7 @@
 * @Author: Administrator
 * @Date:   2017-04-02 10:44:24
 * @Last Modified by:   Administrator
-* @Last Modified time: 2017-04-05 09:40:57
+* @Last Modified time: 2017-04-17 18:16:36
 */
 *{
 	margin: 0px;
@@ -628,6 +628,7 @@ footer input::-webkit-input-placeholder{
 
 .footer2{
 	padding: 0 5%;
+    display: none;
 }
 .top-footer{
 	padding: 50px 0 20px;
@@ -746,6 +747,7 @@ footer input::-webkit-input-placeholder{
 	.header2{
 		display: none;
 	}
+    
 }
 @media screen and (max-width: 992px){
 	.container{
